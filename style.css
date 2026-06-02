@@ -1,0 +1,18 @@
+/* Afrocentric Tech Palette */
+:root {
+  --primary: #8B4513;     /* Rich African Earth Brown */
+  --secondary: #FFD700;   /* Vibrant Gold Accent */
+  --bg-dark: #1E1212;     /* Deep Midnight Purple/Brown */
+  --surface: #2D1B2D;     /* Card Surface Color */
+  --text-main: #FFFFFF;   /* Crisp White for Readability */
+  --text-muted: #F0E6D2;  /* Warm Cream for paragraphs */
+}
+
+body {
+  background-color: var(--bg-dark);
+  color: var(--text-main);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+}
